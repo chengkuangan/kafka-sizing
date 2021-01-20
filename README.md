@@ -1,5 +1,7 @@
 # AMQ Streams Sizing on OpenShift
 
+### Draft and not updated properly yet!
+
 # Configuration Being Used
 
 1. Kafka v2.5
